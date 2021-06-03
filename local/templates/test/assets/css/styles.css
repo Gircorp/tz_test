@@ -1,0 +1,6 @@
+.dropdown-item.active {
+    pointer-events: none;
+}
+.product-card {
+    margin-bottom: 30px;
+}
